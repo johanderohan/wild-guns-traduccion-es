@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/wild-guns)**.
+
 Traducción al **español de España** de *Wild Guns* (Super Nintendo, 1994), el
 *shooter* de galería del Oeste con robots de Natsume, que nunca salió en
 español. Se ha traducido desde la versión **estadounidense en inglés**; no es
